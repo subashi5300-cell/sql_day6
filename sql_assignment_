@@ -1,0 +1,1 @@
+SELECT UPPER(CONCAT("Hi", TRIM(" Welcome "), "Home"));
